@@ -1,0 +1,6 @@
+# Prislista för parkering (CZK per timme)
+# Fordonstyp Pris_per_timme
+Bil 20    # Pris för bil per timme
+MC 10     # Pris för motorcykel per timme
+Buss 50   # Pris för buss per timme
+Cykel 5   # Pris för cykel per timme
